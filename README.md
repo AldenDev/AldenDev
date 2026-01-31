@@ -1,3 +1,5 @@
+![glitch-banner](https://raw.githubusercontent.com/AldenDev/AldenDev/main/assets/banner-glitch.png)
+
 # AldenDev
 
 > *Software-focused systems builder with a cybersecurity mindset.*
@@ -17,7 +19,7 @@ Currently comfortable living between:
 * system behavior
 * security assumptions
 
-Also proudly known as **suami dari F.A.S** — an important constant behind many late-night commits.
+Also known as **TTJ with F.A.S** — a constant behind many late-night commits.
 
 ---
 
@@ -62,13 +64,23 @@ Nothing exotic. Just consistent.
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AldenDev&show_icons=true&hide_border=true&bg_color=00000000&title_color=888888&text_color=777777&icon_color=666666" />
+</p>
+
+---
+
 ## 🧩 Easter Eggs (intentional)
 
-If you read carefully, you’ll notice patterns:
+Look closer:
 
-* subtle references to **F.A.S**
-* repeated emphasis on stability over noise
-* order hidden inside simplicity
+**F**ocus over noise
+**A**rchitecture before tools
+**S**tability above all
+
+Not a coincidence.
 
 Some commits are love letters disguised as refactors.
 
